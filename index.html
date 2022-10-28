@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/styles/style.css">
+    <title>Star Wars - Wiki</title>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <img class="logo" src="./assets/images/LogoEmpire.png" alt="Logo Star Wars WIKI" />
+            <h1>StarWars Wiki</h1>
+            <div class="search-bar">
+                <input type="text"  id="search-input" placeholder="Pesquisar...">
+                <button class="search-button" onclick="onSearch()"></button>
+            </div>
+        </header>
+        <div class="films-list" id="films-list"></div>
+        <div class="modal" id="modal" onclick="closeModal()">
+            <div class="modal-content" id="modal-content"></div>
+        </div>
+    </div>
+    <script src="./assets/scripts/script.js"></script>
+</body>
+
+</html>
