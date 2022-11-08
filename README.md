@@ -2,6 +2,8 @@
 
 <p>Projeto criado com HTML5, CSS e JavaScript, onde é possível consumir uma API externa de filmes, com base no conteúdo apresentado pelo Canal <strong><a href="https://www.youtube.com/c/FalaCoders" target="_blank" >FALA CODERS</a></strong> do Youtube.</p>
 
+![Starwars WIKI](https://user-images.githubusercontent.com/83422460/200648326-81e84607-7af4-4684-9373-4ad1b29f9fd7.png)
+
 <div>
     <h2>💻 Stacks</h1>
     <div align="center">
@@ -19,3 +21,4 @@
   <h2>👨 Autor</h2>
   <p>Heliton Leal</p>
 </div>
+
